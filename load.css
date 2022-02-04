@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass+Mono&display=swap');
+@import url(//db.onlinewebfonts.com/c/a082fd3df68a0b54e0d4d794bc38d268?family=Blender+Pro);
+/*"Blender Pro"; src: url("//db.onlinewebfonts.com/t/a082fd3df68a0b54e0d4d794bc38d268.eot");;*/
+body {
+    background-color: black;
+}
+
+#loading {
+    font-family: 'Overpass Mono', monospace;
+    font-size: 100px;
+    color: rgb(255, 233, 37);
+}
+
+p {
+    font-size: 20px;
+    color: white;
+    font-family: 'Overpass Mono', monospace;
+}
+
+#enter {
+    font-family: "Blender Pro"; src: url("//db.onlinewebfonts.com/t/a082fd3df68a0b54e0d4d794bc38d268.eot");;
+    font-size: 40px;
+    width: 300px;
+    height: 100px;
+    color: rgb(0, 0, 0);
+    background-color: #fbf016;
+    border-style: none;
+}
